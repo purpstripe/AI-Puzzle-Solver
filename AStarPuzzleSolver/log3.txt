@@ -1,0 +1,622 @@
+config file populated
+heuristic 3
+
+new puz 1
+initial state
+1 3 
+0 2 
+
+final state
+0 1 
+2 3 
+total number of Nodes added to the frontier: 6
+time to finish: 0.00017255200000000637
+
+new puz 2
+initial state
+3 0 
+1 2 
+
+final state
+0 1 
+2 3 
+total number of Nodes added to the frontier: 10
+time to finish: 0.00024909099999999296
+
+new puz 3
+initial state
+3 2 
+1 0 
+
+final state
+0 1 
+2 3 
+total number of Nodes added to the frontier: 12
+time to finish: 0.0003124899999999986
+
+new puz 4
+initial state
+2 0 
+3 1 
+
+final state
+0 1 
+2 3 
+total number of Nodes added to the frontier: 6
+time to finish: 0.0001656609999999975
+
+new puz 5
+initial state
+3 2 
+0 1 
+
+final state
+0 1 
+2 3 
+total number of Nodes added to the frontier: 10
+time to finish: 0.0002395400000000103
+
+new puz 6
+initial state
+6 3 7 
+0 1 4 
+8 2 5 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 6307
+time to finish: 0.9763447949999999
+
+new puz 7
+initial state
+1 2 5 
+6 3 0 
+7 8 4 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 40
+time to finish: 0.002725364000000008
+
+new puz 8
+initial state
+6 3 1 
+0 8 2 
+7 5 4 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 169
+time to finish: 0.015139268000000206
+
+new puz 9
+initial state
+3 2 4 
+7 1 0 
+8 6 5 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 318
+time to finish: 0.03161555799999993
+
+new puz 10
+initial state
+2 3 5 
+0 8 7 
+1 6 4 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 1004
+time to finish: 0.11453521500000008
+
+new puz 11
+initial state
+6 3 1 
+7 0 2 
+8 4 5 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 200
+time to finish: 0.018308137999999863
+
+new puz 12
+initial state
+4 3 0 
+7 6 2 
+8 5 1 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 1343
+time to finish: 0.17517342300000016
+
+new puz 13
+initial state
+1 2 5 
+7 8 0 
+3 4 6 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 461
+time to finish: 0.05133494399999994
+
+new puz 14
+initial state
+5 4 3 
+6 8 1 
+0 2 7 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 2815
+time to finish: 0.378479491
+
+new puz 15
+initial state
+3 2 5 
+7 0 8 
+4 1 6 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 250
+time to finish: 0.02175013800000003
+
+new puz 16
+initial state
+1 2 7 
+8 0 4 
+3 6 5 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 542
+time to finish: 0.061674175999999914
+
+new puz 17
+initial state
+7 3 0 
+1 6 2 
+4 8 5 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 564
+time to finish: 0.0654623190000001
+
+new puz 18
+initial state
+1 0 5 
+6 2 8 
+7 4 3 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 364
+time to finish: 0.0386344860000003
+
+new puz 19
+initial state
+3 2 0 
+8 5 7 
+1 6 4 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 17028
+time to finish: 2.8472965020000003
+
+new puz 20
+initial state
+3 2 1 
+5 8 7 
+0 6 4 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 3988
+time to finish: 0.5231646970000003
+
+new puz 21
+initial state
+3 2 5 
+4 6 8 
+7 1 0 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 720
+time to finish: 0.08207055800000074
+
+new puz 22
+initial state
+2 5 8 
+1 0 4 
+3 6 7 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 234
+time to finish: 0.01993525099999971
+
+new puz 23
+initial state
+7 3 5 
+2 6 0 
+4 8 1 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 2467
+time to finish: 0.31973946899999994
+
+new puz 24
+initial state
+3 2 5 
+6 1 8 
+7 4 0 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 29
+time to finish: 0.0017437579999999286
+
+new puz 25
+initial state
+7 4 1 
+0 8 2 
+3 6 5 
+
+final state
+0 1 2 
+3 4 5 
+6 7 8 
+total number of Nodes added to the frontier: 935
+time to finish: 0.10485927900000025
+
+new puz 26
+initial state
+1 6 5 0 
+4 2 14 3 
+8 9 11 7 
+12 10 13 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 2069
+time to finish: 0.4691423979999998
+
+new puz 27
+initial state
+1 2 6 3 
+5 10 7 11 
+4 8 9 0 
+12 13 14 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 67
+time to finish: 0.006564470999999905
+
+new puz 28
+initial state
+6 4 0 1 
+13 2 7 3 
+5 9 10 11 
+8 12 14 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 49228
+time to finish: 16.259326895999997
+
+new puz 29
+initial state
+1 5 2 3 
+4 6 10 7 
+9 14 11 0 
+8 12 13 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 74
+time to finish: 0.010982994999999107
+
+new puz 30
+initial state
+1 2 3 7 
+8 4 5 11 
+12 9 6 10 
+13 14 0 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 60
+time to finish: 0.00734225799999777
+
+new puz 31
+initial state
+1 2 6 3 
+4 9 5 0 
+8 10 14 7 
+12 13 15 11 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 43
+time to finish: 0.0051247889999999074
+
+new puz 32
+initial state
+1 8 2 3 
+0 4 9 7 
+12 6 5 11 
+13 14 10 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 4306
+time to finish: 1.0639297730000017
+
+new puz 33
+initial state
+4 1 2 3 
+8 13 5 0 
+9 14 11 7 
+12 10 6 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 452
+time to finish: 0.07667897900000042
+
+new puz 34
+initial state
+4 1 2 3 
+5 6 10 7 
+14 11 0 15 
+8 12 9 13 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 977
+time to finish: 0.18584732400000092
+
+new puz 35
+initial state
+1 2 6 3 
+4 9 5 7 
+8 0 13 14 
+12 15 10 11 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 520
+time to finish: 0.09894841699999901
+
+new puz 36
+initial state
+4 2 3 7 
+8 1 10 6 
+9 5 0 11 
+12 13 14 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 43
+time to finish: 0.0049974920000011025
+
+new puz 37
+initial state
+7 8 6 2 
+9 4 1 3 
+12 5 10 11 
+0 13 14 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 29639
+time to finish: 8.967388964999998
+
+new puz 38
+initial state
+6 1 4 2 
+8 7 10 3 
+9 5 14 11 
+12 13 0 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 16603
+time to finish: 4.594478378999995
+
+new puz 39
+initial state
+5 4 3 7 
+1 6 0 11 
+8 9 2 15 
+12 13 10 14 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 786
+time to finish: 0.15108217099999877
+
+new puz 40
+initial state
+1 5 2 3 
+8 0 6 7 
+9 4 11 15 
+12 10 13 14 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 89
+time to finish: 0.013762499999998568
+
+new puz 41
+initial state
+4 2 6 3 
+5 9 1 7 
+13 10 0 11 
+8 12 14 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 197
+time to finish: 0.03435221899999874
+
+new puz 42
+initial state
+5 4 1 3 
+0 9 2 7 
+13 10 6 11 
+8 12 14 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 406
+time to finish: 0.06738199299999792
+
+new puz 43
+initial state
+4 1 7 2 
+5 9 0 3 
+8 13 6 11 
+12 14 10 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 134
+time to finish: 0.02081481700000154
+
+new puz 44
+initial state
+4 1 2 3 
+8 7 5 11 
+0 12 6 10 
+13 9 14 15 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 2262
+time to finish: 0.537483764000001
+
+new puz 45
+initial state
+4 1 3 7 
+8 5 6 2 
+9 10 11 15 
+12 13 0 14 
+
+final state
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+total number of Nodes added to the frontier: 246
+time to finish: 0.04301886500000052
+
+total time for all puzzles with heuristic 3: 38.548040316
+the average time to solve each puzzle: 0.8566231181333333
+total number of nodes put into the frontier of all puzzles solved: 148023
+the average number of nodes put into the frontier for each puzzle: 3289.4
